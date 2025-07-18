@@ -1,4 +1,3 @@
-# blogs
 ## 🎙️SHAH NEIL KHAN | TABAYYUN TV
 
 ![Cover Image](https://raw.githubusercontent.com/ishahneilkhan/gallery/main/Frame%2015.svg)
