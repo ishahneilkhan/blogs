@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/ishahneilkhan" target="_blank">
-    <img src="https://img.shields.io/badge/Home-6f42c1?style=for-the-badge&logo=home&logoColor=white" alt="Home" />
+    <img src="https://img.shields.io/badge/Home-6f42c1?style=for-the-badge&logo=github&logoColor=white" alt="Home" />
   </a>
   <a href="https://github.com/ishahneilkhan/Assignments" target="_blank">
     <img src="https://img.shields.io/badge/Previous-555555?style=for-the-badge&logo=arrow-left&logoColor=white" alt="Previous" />
