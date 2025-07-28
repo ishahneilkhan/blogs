@@ -80,10 +80,14 @@ Let's turn great ideas into smooth mobile experiences!
 
 
 
+
+
+
+
 ## Why Designer-Developer Relationships Matter 💡
 
 <p align="center">
-  <img src="(https://github.com/ishahneilkhan/Gallery/blob/main/Cover%2012%20(1).svg)" alt="Designer Developer Collaboration Cover" />
+  <img src="![Blog Cover](https://raw.githubusercontent.com/ishahneilkhan/Blogs/main/Frame%202%20(1).svg)" alt="Designer Developer Collaboration Cover" />
 </p>
 
 
