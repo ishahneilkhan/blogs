@@ -152,3 +152,14 @@ Let’s say a designer creates a beautiful hover effect in Figma. Instead of lea
   background-color: #4CAF50;
   transform: scale(1.1);
 }
+
+
+## Why Designer-Developer Relationships Matter 💡
+
+<p align="center">
+  <img src="https://github.com/ishahneilkhan/Gallery/raw/main/Cover%2011.svg" alt="Designer Developer Collaboration Cover" width="600" />
+</p>
+
+---
+
+## Page 2
