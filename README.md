@@ -189,10 +189,10 @@ By fostering this collaboration, your team will create better products with smoo
 
 *As a designer, your role is to make your designs clear and easy for developers to implement. Annotate your files, share prototypes, and anticipate potential challenges.*
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ishahneilkhan/Gallery/main/Cover%2013.svg" alt="Cover 13" />
-</p>
-
 
 #mediumstylepost #UIUX #DeveloperCollaboration #ProductDesign #Teamwork
+
+
+## Page 3
+
 
