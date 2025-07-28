@@ -194,5 +194,78 @@ By fostering this collaboration, your team will create better products with smoo
 
 
 ## Page 3
+## Designer & Developer relationship status
+
+
+
+
+
+The relationship between designers and developers is fundamental to turning creative concepts into functional, user-friendly products. Yet, this collaboration often faces hurdles—like mismatched file formats or communication gaps—that can slow progress.
+
+Despite these challenges, many issues stem from simple misunderstandings and can be effectively addressed by:
+
+- Establishing clear communication channels early in the process.  
+- Agreeing on preferred file types and delivery formats upfront.  
+- Providing detailed design specifications and annotations.  
+- Encouraging regular feedback loops between teams.
+
+By embracing these straightforward practices, teams can bridge gaps, streamline workflows, and ultimately deliver better products faster.
+
+Obtaining feedback and input from the development team at the final stage of the design process can be incredibly beneficial. However, incorporating their input and perspectives from the beginning of the design process can lead to even greater success. While it may require more time and effort from the development team, it is crucial to effectively plan and organize in order to achieve a valuable and meaningful collaboration. Ultimately, the goal is not to be at odds with one another, but to work together to create something exceptional.
+
+
+### 2. Knowing your Sh*t
+
+Understanding your role deeply — whether as a designer or developer — helps build respect and trust within the team. When everyone masters their craft and appreciates the other's challenges, collaboration becomes smoother and more productive.
+
+
+
+### 3. Respecting Developer Needs
+
+It’s not uncommon for developers to make requests that may seem unnecessary or trivial to designers. For instance, a developer may ask for a simple graphical asset to be exported in a specific file format. 
+
+However, it’s important to remember that developers are experts in their field, and their requests are often based on technical considerations that impact performance, scalability, or code maintainability.
+
+To avoid misunderstandings, designers should aim to:
+
+- Gain a basic understanding of UI development.
+- Anticipate how designs will be implemented in code.
+- Communicate openly and without ego.
+
+This cross-disciplinary awareness allows designers to make more informed decisions and better support the development team in achieving shared goals.
+
+The key is mutual respect — recognizing that both roles are critical to shipping a great product.
+
+
+
+### 4. Providing Necessary Materials
+
+> 📸 *Zoom image will be displayed*  
+> 💡 *Style Guide by Steph Jeong for Ueno*
+
+Creating mockups is just the beginning of the design process. To ensure consistency throughout development and implementation, designers must go beyond visuals and provide clear, structured documentation.
+
+✅ A **Style Guide** should include:
+- Color palettes and usage rules
+- Typography styles
+- UI components and states
+- Input field behaviors
+- Spacing, grids, and iconography
+
+Without this, the development team is left guessing — leading to inconsistency and rework.
+
+Design is not just a folder full of assets. It’s a thoughtful creation — one that needs care, alignment, and flexibility. Striving for perfection is admirable, but designers must also remain open to feedback and changes throughout implementation. A perfectionist mindset that ignores collaboration can create friction.
+
+
+### Conclusion
+
+Effective communication is at the heart of any successful team. But miscommunication and lack of documentation often lead to delays, frustration, and compromised results.
+
+🧠 Here’s how to avoid that:
+- Provide detailed documentation (style guides, UI specs, handoff files)
+- Communicate clearly and proactively
+- Approach collaboration with empathy
+
+At the end of the day, it’s not design *versus* development. It’s design **with** development — working hand-in-hand to create something truly great.
 
 
