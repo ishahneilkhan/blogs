@@ -11,7 +11,7 @@
 </p>
 
 
-## 🎙️SHAH NEIL KHAN | TABAYYUN TV
+## 🎙️SHAH NEIL KHAN | EDHAFAH SOFT
 
 ![Cover Image](https://raw.githubusercontent.com/ishahneilkhan/gallery/main/Frame%2015.svg)
 
