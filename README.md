@@ -86,9 +86,11 @@ Let's turn great ideas into smooth mobile experiences!
 
 ## Why Designer-Developer Relationships Matter 💡
 
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ishahneilkhan/Blogs/main/Frame%202%20(1).svg" alt="Blog Cover" />
+  <img src="https://raw.githubusercontent.com/ishahneilkhan/Gallery/main/Cover%2012%20(1).svg" alt="Cover 12" />
 </p>
+
 
 
 
