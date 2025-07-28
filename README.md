@@ -14,7 +14,8 @@
 
 ## 🎙️SHAH NEIL KHAN | EDHAFAH SOFT
 
-![Cover Image](https://raw.githubusercontent.com/ishahneilkhan/gallery/main/Frame%2015.svg)
+![Cover](https://github.com/ishahneilkhan/Gallery/raw/main/Frame%202%20(1).svg)
+
 
 
 
