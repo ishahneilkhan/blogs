@@ -1,4 +1,12 @@
 <p align="center">
+  <img src="https://github.com/ishahneilkhan/Gallery/raw/main/Cover%2011.svg" alt="Designer Developer Collaboration Cover" />
+</p>
+
+
+
+
+
+<p align="center">
   <a href="https://github.com/ishahneilkhan" target="_blank">
     <img src="https://img.shields.io/badge/Home-6f42c1?style=for-the-badge&logo=github&logoColor=white" alt="Home" />
   </a>
