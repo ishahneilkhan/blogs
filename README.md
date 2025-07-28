@@ -77,7 +77,8 @@ Let's turn great ideas into smooth mobile experiences!
 
 
 
-###Why Designer-Developer Relationships Matter 💡
+## Why Designer-Developer Relationships Matter 💡
+### Why Designer-Developer Relationships Matter 💡
 
 <p align="center">
   <img src="https://github.com/ishahneilkhan/Gallery/raw/main/Cover%2011.svg" alt="Designer Developer Collaboration Cover" />
