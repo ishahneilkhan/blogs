@@ -161,4 +161,8 @@ Let’s say a designer creates a beautiful hover effect in Figma. Instead of lea
 
 
 ##  Page 2
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ishahneilkhan/Gallery/main/Cover%2012%20(1).svg" alt="Cover 12" />
+</p>
+
 
