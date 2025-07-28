@@ -83,7 +83,7 @@ Let's turn great ideas into smooth mobile experiences!
 ## Why Designer-Developer Relationships Matter 💡
 
 <p align="center">
-  <img src="https://github.com/ishahneilkhan/Gallery/raw/main/Cover%2011.svg" alt="Designer Developer Collaboration Cover" />
+  <img src="(https://github.com/ishahneilkhan/Gallery/blob/main/Cover%2012%20(1).svg)" alt="Designer Developer Collaboration Cover" />
 </p>
 
 
@@ -154,4 +154,5 @@ Let’s say a designer creates a beautiful hover effect in Figma. Instead of lea
 ```
 
 
-##  Pro Tip: Use Examples!
+##  Page 2
+
