@@ -161,12 +161,16 @@ Let’s say a designer creates a beautiful hover effect in Figma. Instead of lea
 
 
 ##  Page 2
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ishahneilkhan/Gallery/main/Cover%2012%20(1).svg" alt="Cover 12" />
-</p>
+
 
 
 ## Your Role in Fostering a Great Designer and Developer Relationship
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ishahneilkhan/Gallery/main/Cover%2013.svg" alt="Cover 13" />
+</p>
+
+
 
 Team collaboration is widely discussed in product development, but the critical connection between design and development often gets overlooked. This relationship is key — it can either make or break the success of your software project.
 
