@@ -145,9 +145,10 @@ They can help with:
 
 Let’s say a designer creates a beautiful hover effect in Figma. Instead of leaving the developer guessing, include CSS snippets like this:
 
-```css
+
 .button:hover {
   background-color: #4CAF50;
-  transform: scale(1.1);```
+  transform: scale(1.1);
+}
 
 gfdfcv bfg
