@@ -96,7 +96,7 @@ If you’re a designer or developer, you already know how crucial teamwork is. B
 
 In this post, I’m sharing some easy rules and tips based on my experience to help strengthen the designer-developer relationship. Whether you’re a designer trying to translate Figma files into code or a developer struggling to interpret pixel-perfect designs — this is for you.
 
----
+
 
 ## 💡 Why Designer-Developer Relationships Matter
 
@@ -134,7 +134,6 @@ They can help with:
 > **Quick tip:** Share early wireframes and ask,  
 > *“Does this interaction make sense to code?”*
 
----
 
 ## ✅ Benefits of Following These Rules
 
@@ -142,7 +141,7 @@ They can help with:
 - **Avoid conflicts** — Everyone knows what to expect.
 - **Create amazing products** — With less stress and more joy.
 
----
+
 
 ## 🌟 Pro Tip: Use Examples!
 
@@ -156,9 +155,14 @@ Let’s say a designer creates a beautiful hover effect in Figma. Instead of lea
 
 
 
+## Why Designer-Developer Relationships Matter 💡
+
+<p align="center">
+  <img src="https://github.com/ishahneilkhan/Gallery/raw/main/Cover%2011.svg" alt="Designer Developer Collaboration Cover" />
+</p>
 
 
 
+## Page1
 
 
-## Page 2
