@@ -148,5 +148,4 @@ Let’s say a designer creates a beautiful hover effect in Figma. Instead of lea
 ```css
 .button:hover {
   background-color: #4CAF50;
-  transform: scale(1.1);
-}css ... ``` ````
+  transform: scale(1.1);```
