@@ -1,10 +1,3 @@
-<p align="center">
-  <img src="https://github.com/ishahneilkhan/Gallery/raw/main/Cover%2011.svg" alt="Designer Developer Collaboration Cover" />
-</p>
-
-
-
-
 
 <p align="center">
   <a href="https://github.com/ishahneilkhan" target="_blank">
@@ -81,3 +74,11 @@ Let's turn great ideas into smooth mobile experiences!
     </td>
   </tr>
 </table>
+
+
+
+###Why Designer-Developer Relationships Matter 💡
+
+<p align="center">
+  <img src="https://github.com/ishahneilkhan/Gallery/raw/main/Cover%2011.svg" alt="Designer Developer Collaboration Cover" />
+</p>
