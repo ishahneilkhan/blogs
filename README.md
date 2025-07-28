@@ -196,6 +196,9 @@ By fostering this collaboration, your team will create better products with smoo
 ## Page 3
 ## Designer & Developer relationship status
 
+<p align="center">
+  <img src="https://github.com/ishahneilkhan/Gallery/blob/main/Cover%2011.svg" alt="Cover 13" />
+</p>
 
 
 
@@ -216,11 +219,23 @@ Obtaining feedback and input from the development team at the final stage of the
 
 ### 2. Knowing your Sh*t
 
+<p align="center">
+  <img src="https://github.com/ishahneilkhan/Gallery/blob/main/Cover%2011.svg" alt="Cover 13" />
+</p>
+
+
+
 Understanding your role deeply — whether as a designer or developer — helps build respect and trust within the team. When everyone masters their craft and appreciates the other's challenges, collaboration becomes smoother and more productive.
 
 
 
 ### 3. Respecting Developer Needs
+
+<p align="center">
+  <img src="https://github.com/ishahneilkhan/Gallery/blob/main/Cover%2011.svg" alt="Cover 13" />
+</p>
+
+
 
 It’s not uncommon for developers to make requests that may seem unnecessary or trivial to designers. For instance, a developer may ask for a simple graphical asset to be exported in a specific file format. 
 
@@ -239,6 +254,12 @@ The key is mutual respect — recognizing that both roles are critical to shippi
 
 
 ### 4. Providing Necessary Materials
+
+<p align="center">
+  <img src="https://github.com/ishahneilkhan/Gallery/blob/main/Frame%204.svg" alt="Cover 13" />
+</p>
+
+
 
 > 📸 *Zoom image will be displayed*  
 > 💡 *Style Guide by Steph Jeong for Ueno*
